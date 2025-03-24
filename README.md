@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Sharif169
+**-Hey Monad Devs I am not a developer but I really want your help for contract deployment in Foundry and Hardhat . So please let me in 
+**
+
+
+👋 Hi, I’m @Sharif169
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
